@@ -66,4 +66,4 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 6. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
 
 ### Instructions
-`Navigation.ipynb` has all the necessary cells and instructions. 
+Set up Juypter Notebook using Anaconda and navigate to `Navigation.ipynb` after cloning this repository and following the instructions. Click on the Cells dropdown and select Run All, or Shift + Enter throughout the notebook after selecting the first cell. 
